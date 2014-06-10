@@ -1,0 +1,28 @@
+Redirect	301	http://staging.productivitymediation.com/articles.html	http://www.productivitymediation.com/articles/
+Redirect	301	http://staging.productivitymediation.com/casestudy.html	http://www.productivitymediation.com/casestudies/
+Redirect	301	http://staging.productivitymediation.com/casestudy/	http://www.productivitymediation.com/casestudies/
+Redirect	301	http://staging.productivitymediation.com/contact.html	http://www.productivitymediation.com/contactus/
+Redirect	301	http://staging.productivitymediation.com/forexecutives.html	http://www.productivitymediation.com/forexecutives/
+Redirect	301	http://staging.productivitymediation.com/forexecutives.html	http://www.productivitymediation.com/forexecutives/
+Redirect	301	http://staging.productivitymediation.com/formanagers.html	http://www.productivitymediation.com/formanagers/
+Redirect	301	http://staging.productivitymediation.com/tips.html	http://www.productivitymediation.com/tips/
+
+Redirect	301	http://staging.productivitymediation.com/articles/4StepsForKeepingResolutions.html	http://productivitymediation.wordpress.com/2013/12/30/4-steps-to-achieve-the-best-possible-outcome-for-your-new-years-resolutions/
+Redirect	301	http://staging.productivitymediation.com/articles/LivingWithAnAgreement.html	http://productivitymediation.wordpress.com/2013/08/09/living-with-an-agreement-afterwards/
+Redirect	301	http://staging.productivitymediation.com/articles/IfYoudKnownItAllAlong.html	http://productivitymediation.wordpress.com/2014/04/14/if-youd-known-the-truth-all-along/
+Redirect	301	http://staging.productivitymediation.com/articles/FactsAreFactsRight.html	http://productivitymediation.wordpress.com/2013/04/15/facts-are-facts-right/
+Redirect	301	http://staging.productivitymediation.com/articles/SurvivingPeopleInPower.html	http://productivitymediation.wordpress.com/2013/06/17/surviving-people-in-power-in-the-workplace/
+Redirect	301	http://staging.productivitymediation.com/articles/EffectiveProjectDelegation.html	http://productivitymediation.wordpress.com/2013/05/13/effective-project-delegation-to-your-it-team/
+Redirect	301	http://staging.productivitymediation.com/articles/TrainingYourLizardBrain.html	http://productivitymediation.wordpress.com/2013/03/15/difficult-conversations-retrain-your-lizard-brain-and-enjoy-difficult-conversations-or-at-least-not-dread-them/
+Redirect	301	http://staging.productivitymediation.com/articles/StayingSaneWhileLayingOff.html	http://productivitymediation.wordpress.com/2009/05/28/how-to-stay-sane-when-you-have-to-lay-people-off/
+Redirect	301	http://staging.productivitymediation.com/articles.html	http://productivitymediation.wordpress.com/articles/
+Redirect	301	http://staging.productivitymediation.com/articles/	http://productivitymediation.wordpress.com/articles/
+
+Redirect	301	http://staging.productivitymediation.com/tips/gettingWhatYouNeedFromBusinessSide.html	http://productivitymediation.wordpress.com/2014/03/25/six-tips-for-getting-what-you-need-from-the-business-side-of-the-house/
+Redirect	301	http://staging.productivitymediation.com/tips/businesspartnersfighting.html	http://productivitymediation.wordpress.com/2013/01/24/five-tips-for-when-youre-fighting-with-your-business-partner/
+Redirect	301	http://staging.productivitymediation.com/tips/workplaceconflict.html	http://productivitymediation.wordpress.com/2013/09/26/ten-tips-for-making-workplace-conflict-easier-to-deal-with/
+Redirect	301	http://staging.productivitymediation.com/tips/stayingsane.html	http://productivitymediation.wordpress.com/2009/05/15/eight-tips-for-helping-you-stay-sane-when-you-have-to-lay-people-off/
+Redirect	301	http://staging.productivitymediation.com/tips.html	http://productivitymediation.wordpress.com/tips/
+Redirect	301	http://staging.productivitymediation.com/tips/	http://productivitymediation.wordpress.com/tips/
+
+ErrorDocument	404	http://staging.productivitymediation.com/filenotfound.html

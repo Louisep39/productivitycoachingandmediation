@@ -1,0 +1,28 @@
+Redirect	301	/~louisep/articles.html	http://productivitymediation.wordpress.com/articles/
+Redirect	301	/~louisep/casestudy.html	http://goblin.wonderworks.com/~louisep/casestudies/
+Redirect	301	/~louisep/casestudy/	http://goblin.wonderworks.com/~louisep/casestudies/
+Redirect	301	/~louisep/contact.html	http://goblin.wonderworks.com/~louisep/contactus/
+Redirect	301	/~louisep/forexecutives.html	http://goblin.wonderworks.com/~louisep/forexecutives/
+Redirect	301	/~louisep/forexecutives.html	http://goblin.wonderworks.com/~louisep/forexecutives/
+Redirect	301	/~louisep/formanagers.html	http://goblin.wonderworks.com/~louisep/formanagers/
+Redirect	301	/~louisep/tips.html	http://productivitymediation.wordpress.com/tips/
+
+Redirect	301	/~louisep/articles/4StepsForKeepingResolutions.html	http://productivitymediation.wordpress.com/2013/12/30/4-steps-to-achieve-the-best-possible-outcome-for-your-new-years-resolutions/
+Redirect	301	/~louisep/articles/LivingWithAnAgreement.html	http://productivitymediation.wordpress.com/2013/08/09/living-with-an-agreement-afterwards/
+Redirect	301	/~louisep/articles/IfYoudKnownItAllAlong.html	http://productivitymediation.wordpress.com/2014/04/14/if-youd-known-the-truth-all-along/
+Redirect	301	/~louisep/articles/FactsAreFactsRight.html	http://productivitymediation.wordpress.com/2013/04/15/facts-are-facts-right/
+Redirect	301	/~louisep/articles/SurvivingPeopleInPower.html	http://productivitymediation.wordpress.com/2013/06/17/surviving-people-in-power-in-the-workplace/
+Redirect	301	/~louisep/articles/EffectiveProjectDelegation.html	http://productivitymediation.wordpress.com/2013/11/02/get-what-you-need-from-your-it-team/
+Redirect	301	/~louisep/articles/TrainingYourLizardBrain.html	http://productivitymediation.wordpress.com/2013/03/15/difficult-conversations-retrain-your-lizard-brain-and-enjoy-difficult-conversations-or-at-least-not-dread-them/
+Redirect	301	/~louisep/articles/StayingSaneWhileLayingOff.html	http://productivitymediation.wordpress.com/2009/05/28/how-to-stay-sane-when-you-have-to-lay-people-off/
+Redirect	301	/~louisep/articles.html	http://productivitymediation.wordpress.com/articles/
+Redirect	301	/~louisep/articles/	http://productivitymediation.wordpress.com/articles/
+
+Redirect	301	/~louisep/tips/gettingWhatYouNeedFromBusinessSide.html	http://productivitymediation.wordpress.com/2014/03/25/six-tips-for-getting-what-you-need-from-the-business-side-of-the-house/
+Redirect	301	/~louisep/tips/businesspartnersfighting.html	http://productivitymediation.wordpress.com/2013/01/24/five-tips-for-when-youre-fighting-with-your-business-partner/
+Redirect	301	/~louisep/tips/workplaceconflict.html	http://productivitymediation.wordpress.com/2013/09/26/ten-tips-for-making-workplace-conflict-easier-to-deal-with/
+Redirect	301	/~louisep/tips/stayingsane.html	http://productivitymediation.wordpress.com/2009/05/15/eight-tips-for-helping-you-stay-sane-when-you-have-to-lay-people-off/
+Redirect	301	/~louisep/tips.html	http://productivitymediation.wordpress.com/tips/
+Redirect	301	/~louisep/tips/	http://productivitymediation.wordpress.com/tips/
+
+ErrorDocument	404	/~louisep/filenotfound.html

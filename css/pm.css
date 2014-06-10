@@ -1,0 +1,443 @@
+/*	BODY STYLE			***************************************/
+
+body
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 14px;
+	line-height: 120%;
+	background-color: #FFFFFF;
+}
+
+.blue-text
+{
+	color: #074F6B;
+}
+
+
+
+/*	HEADERS					***************************************/
+
+H1
+{
+	font-weight: bold;
+	font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;
+	font-size: 1em;
+	line-height: 120%;
+	color: #074F6B;
+	padding-bottom: 1em;
+}
+
+H2
+{
+	font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 1em;
+	color: #074F6B;
+}
+
+.header3
+{
+	font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 1em;
+	color: #074F6B;
+	font-style: italic;
+}
+
+
+/*	SITE SIZE AND PLACEMENT	***************************************/
+
+.site-container
+{
+	width: 835px;
+	position: absolute;
+	left: 150px;
+}
+
+.benefit-statement, .company-name
+{
+	margin-left: 3em;
+}
+
+  
+/*	TOP BAR STYLES			***************************************/
+
+.banner-bar-background
+{  
+	float: left;
+	Zwidth: 100%;
+	height: 220px;
+}
+
+.to p-bar
+{
+	margin: 0px;
+	padding: 0px;
+}	
+
+.benefit-statement
+{
+	width: 50%;
+	margin-top: 2em;
+	padding-top: 1em;
+ 	padding-bottom: 1em;
+ 	font-family: Georgia, Verdana, Geneva, Helvetica, Arial, sans-serif; 
+ 	font-size: 1.1em; 
+ 	font-style: italic; 
+ 	line-height: 120%; 
+	position: relative;
+	z-index: +10;
+}
+
+.company-name
+{
+	padding-top: .75em;
+	padding-bottom: .75em;
+	width: 65%;
+	font-size: 2em;
+	font-family: Georgia, Verdana, Geneva, Helvetica, Arial, sans-serif;
+	position: relative;
+	z-index: +10;
+}
+
+.banner-image
+{
+	position: absolute;
+	top: 2em;
+	margin-left: 2em;
+	z-index: 0;
+	width: 100%;
+}
+
+
+/*	CONTENT					***************************************/
+
+
+.site-background
+{
+	float: left;
+	width: 100%;
+	min-height: 1000px; 
+}
+
+.usable-area
+{
+	padding: 1em;
+	margin: 1em;
+	float: left;
+}
+
+.content-area
+{
+	width: 550px;
+	top: 5em;
+	padding-left: 200px;
+	margin-top: 6em;
+	min-height: 500px; 
+	margin-bottom: 4em;
+}
+
+
+
+/*	MENU STYLES				***************************************/
+
+
+.top-bar-home-links a:link 
+{
+	text-decoration: none;
+}
+
+.top-bar-home-links a:visited
+{
+	text-decoration: none;
+}
+
+.top-bar-home-links a:hover
+{
+	text-decoration: none;
+}
+
+.top-bar-home-links a:active
+{
+	text-decoration: none;
+}
+
+.top-bar-home-links
+{
+	color: #000000;
+}
+
+.top-level-menu
+{
+	width: 100%;
+	float: left;
+	vertical-align: bottom;
+	margin-bottom: 3em;
+	background-color: #EDD64F;
+}
+
+.menu-links, .self-menu-links, .parent-of-menu-links
+{
+	float: left;
+	height: 2em;
+ 	padding-left: 1.1em; 
+ 	padding-right: 1.1em; 
+ 	padding-top: 1em;
+	font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;
+	color:#000000;
+	text-decoration: none;
+ 	border-right-style: solid; 
+ 	border-width: 1px; 
+	border-color: #999999;
+	font-weight: bold;
+	text-align: center;
+	display: block;
+	min-width: 3em;
+/* 	max-width: 10em; */
+/* 	background-color: #EDD64F; */
+}
+
+.self-menu-links
+{
+	background-color: #AAD2E4;
+}
+
+a.menu-links:link .parent-of-menu-links:link
+{
+	text-decoration: none;
+}
+
+a.menu-links:hover, .parent-of-menu-links:hover
+{
+ 	text-decoration: none;
+	background-color: #D6BF4C;
+}
+
+a.menu-links:active, .parent-of-menu-links:active
+{
+	color: red;
+}
+
+.parent-of-menu-links
+{
+	background-color: #57A6C8;
+/*	background-color: #FCE265; */
+}
+
+.sub-level-menu
+{
+	float: left;
+	top: 5em;
+	background-color: #AAD2E4;
+/* 	margin-left: 1em; */
+	padding-top: 1em;
+	padding-bottom: 1em;
+	margin-bottom: 4em;
+	width: 170px;
+	min-height: 250px;
+}
+
+.sub-menu-links, .self-sub-menu-links {
+	font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;
+	font-weight: bold;
+	background-color: #AAD2E4;
+	color: #000000;
+ 	padding-top: .5em;
+ 	padding-bottom: .5em;
+ 	padding-right: .5em;
+ 	padding-left: .5em;
+	display: block;
+}
+
+.self-sub-menu-links
+{
+	background-color: #57A6C8;
+}
+
+
+#topmenu {
+	text-align: right;
+	vertical-align: middle;	
+	color: red;
+}
+
+a.sub-menu-links:link 
+{
+	text-decoration: none;
+}
+
+a.sub-menu-links:hover
+{
+ 	text-decoration: none;
+	background-color: #A3C3CE;
+}
+
+a.sub-menu-links:active
+{
+	color: red;
+}
+
+
+.contact-about-menu, .self_contact-about-menu
+{
+	position: relative;
+	margin-right: 5em;
+	margin-top: 0em;
+	text-align: right;
+ 	float: right;
+  	font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;
+  	z-index: 100;
+}
+
+a.contact-about-menu-links, .self-contact-about-menu-links
+{
+	font-weight: bold;
+	line-height: 75%;
+/*	color: #8E4802; */
+
+}
+
+a.contact-about-menu-links:link 
+{
+	text-decoration: none;
+}
+
+a.contact-about-menu-links:hover
+{
+ 	text-decoration: none;
+}
+
+a.contact-about-menu-links:active
+{
+	color: red;
+}
+
+a.contact-about-menu-links:visited
+{
+/*	color: #FF00FF; */
+}
+
+a.contact-about-menu-links
+{
+	align: right;
+}
+
+.self-contact-about-menu-links
+{
+	color: #000000;
+}
+
+
+
+/*	TIPS LISTS				***************************************/
+
+.tips-list
+{
+	font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	padding-bottom:1em;
+}
+
+.tips-list-item-header
+{
+	font-family: Georgia, "Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 1em;
+	color: #074F6B;
+	font-weight: bold;
+}
+
+
+/*	MISC					***************************************/
+
+
+.headshot
+{
+	float: right;
+	padding-left: 10px;
+	padding-bottom: 10px
+}
+
+.callout
+{
+/*	background-color: #DDDDD9; */
+	width: 200px;
+	padding: 1em;
+	padding-top: 0.5em;
+	margin-left: 10px;
+	margin-bottom: 10px;
+	float: right;
+ 	border-left-style: solid; 
+ 	border-width: 5px; 
+	border-color: #EDD64F;
+/*	border-color: #AAD2E4; */
+}
+
+.callout-header
+{
+	font-weight: bold;
+}
+
+.hanging-indent
+{
+	text-indent:-3em;
+	padding-left: 3em;
+}
+
+.titles-as-links
+{
+	color: #074F6B;
+}
+
+a.titles-as-links:link
+{
+	text-decoration: none;
+}
+
+a.titles-as-links:hover
+{
+ 	text-decoration: none;
+}
+
+a.titles-as-links:active,
+{
+	color: red;
+}
+
+a.titles-as-links:visited
+{
+ 	text-decoration: none;
+	color: #074F6B;
+}
+
+.preview-area
+{
+	float: left;
+	top: 5em;
+	font-family: Verdana, Geneva, Helvetica, Arial, sans-serif;
+	font-size: smaller;
+/*	background-color: #AAD2E4; */
+/* 	margin-left: 1em; */
+	padding: 1em;
+	margin-bottom: 4em;
+	width: 140px;
+	min-height: 250px;
+ 	border-right-style: solid; 
+ 	border-width: 5px; 
+	border-color: #AAD2E4;
+}
+
+
+	
+/*	BOTTOM BAR				***************************************/
+
+.bottom-bar
+{
+	float: left;
+	height: 3em;
+ 	width: 100%;
+	background-color: #EDD64F;
+	padding: 3px;
+}
+
+
+/*    	border-color: #000000; */
+/*    	border: solid; */
